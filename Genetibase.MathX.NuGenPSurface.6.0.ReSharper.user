@@ -1,0 +1,30 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9CD33B1D-7F62-4DDB-9AF1-1FBB8E1140A7/f:NuGenPSurface.cpp" caret="0" fromTop="0" />
+      <File id="AB9E0973-BC8B-4FF2-9ACE-44C2C1255CAB/f:App.config" caret="113" fromTop="2" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9CD33B1D-7F62-4DDB-9AF1-1FBB8E1140A7/f:NuGenPSurface.cpp" caret="0" fromTop="0" />
+      <File id="AB9E0973-BC8B-4FF2-9ACE-44C2C1255CAB/f:App.config" caret="131" fromTop="2" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
